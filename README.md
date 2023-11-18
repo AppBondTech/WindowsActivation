@@ -10,7 +10,7 @@
     ভিডিও দেখার জন্য, নিচের ভিডিও টিউটোরিয়াল (Video Tutorial) বাটনে ক্লিক করুন
     <br/>
     <br/>
-    <a href="https://youtu.be/pzFsuzdIUog?si=11HHsECNZsHwcjLu"><strong> Video Tutorial »</strong></a>
+    <a href="https://youtu.be/b8WuNP8lFdk"><strong> Video Tutorial »</strong></a>
     <br/>
     <br/>
     
