@@ -14,9 +14,6 @@
     <br/>
     <br/>
     
-## About This Project
-
-![Screen Shot](https://mdhasanmahmud.000webhostapp.com/inappupdate/autolinkthum.png)
 
 ## In Co-operation
 
